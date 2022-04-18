@@ -1,0 +1,16 @@
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\bin\Debug\net5.0\FunctionsReturnAndArraysForFile.exe
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\bin\Debug\net5.0\FunctionsReturnAndArraysForFile.deps.json
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\bin\Debug\net5.0\FunctionsReturnAndArraysForFile.runtimeconfig.json
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\bin\Debug\net5.0\FunctionsReturnAndArraysForFile.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\bin\Debug\net5.0\FunctionsReturnAndArraysForFile.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\bin\Debug\net5.0\ref\FunctionsReturnAndArraysForFile.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\bin\Debug\net5.0\FunctionsReturnAndArraysForFile.pdb
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\obj\Debug\net5.0\FunctionsReturnAndArraysForFile.csproj.AssemblyReference.cache
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\obj\Debug\net5.0\FunctionsReturnAndArraysForFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\obj\Debug\net5.0\FunctionsReturnAndArraysForFile.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\obj\Debug\net5.0\FunctionsReturnAndArraysForFile.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\obj\Debug\net5.0\FunctionsReturnAndArraysForFile.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\obj\Debug\net5.0\FunctionsReturnAndArraysForFile.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\obj\Debug\net5.0\ref\FunctionsReturnAndArraysForFile.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\obj\Debug\net5.0\FunctionsReturnAndArraysForFile.pdb
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FunctionsReturnAndArraysForFile\obj\Debug\net5.0\FunctionsReturnAndArraysForFile.genruntimeconfig.cache

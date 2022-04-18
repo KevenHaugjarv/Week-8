@@ -1,0 +1,15 @@
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\bin\Debug\net5.0\FridayNightRandom.exe
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\bin\Debug\net5.0\FridayNightRandom.deps.json
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\bin\Debug\net5.0\FridayNightRandom.runtimeconfig.json
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\bin\Debug\net5.0\FridayNightRandom.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\bin\Debug\net5.0\FridayNightRandom.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\bin\Debug\net5.0\ref\FridayNightRandom.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\bin\Debug\net5.0\FridayNightRandom.pdb
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\obj\Debug\net5.0\ref\FridayNightRandom.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.pdb
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.genruntimeconfig.cache

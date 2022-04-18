@@ -1,0 +1,16 @@
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\bin\Debug\net5.0\ChucNorris.exe
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\bin\Debug\net5.0\ChucNorris.deps.json
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\bin\Debug\net5.0\ChucNorris.runtimeconfig.json
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\bin\Debug\net5.0\ChucNorris.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\bin\Debug\net5.0\ChucNorris.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\bin\Debug\net5.0\ref\ChucNorris.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\bin\Debug\net5.0\ChucNorris.pdb
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\obj\Debug\net5.0\ChucNorris.csproj.AssemblyReference.cache
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\obj\Debug\net5.0\ChucNorris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\obj\Debug\net5.0\ChucNorris.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\obj\Debug\net5.0\ChucNorris.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\obj\Debug\net5.0\ChucNorris.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\obj\Debug\net5.0\ChucNorris.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\obj\Debug\net5.0\ref\ChucNorris.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\obj\Debug\net5.0\ChucNorris.pdb
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\ChucNorris\obj\Debug\net5.0\ChucNorris.genruntimeconfig.cache

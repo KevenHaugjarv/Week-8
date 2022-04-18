@@ -1,0 +1,16 @@
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\bin\Debug\net5.0\PickFromFile.exe
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\bin\Debug\net5.0\PickFromFile.deps.json
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\bin\Debug\net5.0\PickFromFile.runtimeconfig.json
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\bin\Debug\net5.0\PickFromFile.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\bin\Debug\net5.0\PickFromFile.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\bin\Debug\net5.0\ref\PickFromFile.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\bin\Debug\net5.0\PickFromFile.pdb
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\obj\Debug\net5.0\PickFromFile.csproj.AssemblyReference.cache
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\obj\Debug\net5.0\PickFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\obj\Debug\net5.0\PickFromFile.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\obj\Debug\net5.0\PickFromFile.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\obj\Debug\net5.0\PickFromFile.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\obj\Debug\net5.0\PickFromFile.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\obj\Debug\net5.0\ref\PickFromFile.dll
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\obj\Debug\net5.0\PickFromFile.pdb
+C:\Users\kasutaja\source\repos\FunctionsReturnAndArraysForFile\PickFromFile\obj\Debug\net5.0\PickFromFile.genruntimeconfig.cache
